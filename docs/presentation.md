@@ -1,6 +1,7 @@
 class: center, middle
 # How to work with a DB in Java
 
+[Source code on Github](https://github.com/linarkou/spring-data-jpa-demo)
 ---
 ## В предыдущем докладе
 ```$java

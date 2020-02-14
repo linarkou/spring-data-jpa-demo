@@ -5,4 +5,4 @@
 1. V1: Созданы `@Entity`, базовый `@Repository` и показана проблема с Open Session On View.
 2. V2: Созданы кастомные методы в репозитории и их возможности.
 
-[Презентация](https://linarkou.github.io/spring-data-jpa-demo/presentation/presentation.html) создана при помощи [Remark](https://github.com/gnab/remark).
+[Презентация](https://linarkou.github.io/spring-data-jpa-demo/) создана при помощи [Remark](https://github.com/gnab/remark).
